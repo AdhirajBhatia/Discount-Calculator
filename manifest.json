@@ -1,0 +1,22 @@
+{
+  "name": "Discount Calculator",
+  "short_name": "Discount Calculator",
+  "start_url": "index.html",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "https://cdn.iconscout.com/icon/premium/png-512-thumb/discount-calculator-2934813-2460807.png",
+      "sizes": "192x192",
+      "type": "image/png",
+	  "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn.iconscout.com/icon/premium/png-512-thumb/discount-calculator-2934813-2460807.png",
+      "sizes": "512x512",
+      "type": "image/png"
+	}
+  ],
+  "theme_color": "white",
+  "background_color": "white",
+  "display": "standalone"
+}
